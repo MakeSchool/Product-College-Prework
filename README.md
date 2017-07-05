@@ -44,8 +44,14 @@ The primary languages that you will learn at the Product College are Python and 
 ## iOS
 
 1. Install XCode - from App Store (~4 hours)
+1. Download Intro to App Development with Swift iBook (https://itun.es/us/aVbRcb.l)
+1. Complete projects and materials from the Intro to App Development with Swift iBook
 
 ### Fundamentals
-1. [Online Academy CS Fundamentals](https://www.makeschool.com/academy)
 
-###
+1. [Swift and iOS Development- Intro to App Development iBook](https://itun.es/us/aVbRcb.l)
+1. [Online Academy - CS Fundamentals](https://www.makeschool.com/academy)
+1. [Object Oriented Programming in Swift](https://www.raywenderlich.com/160728/object-oriented-programming-swift)
+1. [Model-View-Controller(MVC) in iOS](https://www.youtube.com/watch?v=Zud56x_VYvs)
+
+

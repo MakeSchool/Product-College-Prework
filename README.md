@@ -47,7 +47,7 @@ The primary languages that you will learn at the Product College are Python and 
 1. Download Intro to App Development with Swift iBook (https://itun.es/us/aVbRcb.l)
 1. Complete projects and materials from the Intro to App Development with Swift iBook
 
-### Fundamentals
+#### iOS Fundamentals
 
 1. [Swift and iOS Development- Intro to App Development iBook](https://itun.es/us/aVbRcb.l)
 1. [Online Academy - CS Fundamentals](https://www.makeschool.com/academy)

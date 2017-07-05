@@ -2,7 +2,7 @@
 
 Welcome to the Product College!
 
-During the first week of the Product College, you will take a few tests to see if you can skip some initial classes. This document contains links to some tutorials and videos that will prepare you for these tests.
+During the first week of the Product College, you will take a few assessments to see if you can skip some initial classes. This document contains links to some tutorials and videos that will prepare you for these assessments.
 
 By completing this prework, you will accelerate your time becoming a software engineer, and can even make it so your can graduate from the Product College early. If you do not complete this prework, you will not be "in trouble" but you might be discouraged by being less prepared than other fellows which will make your time more difficult.
 

@@ -12,11 +12,11 @@ The primary languages that you will learn at the Product College are Python and 
 
 ## Computer Science Fundamentals
 
-1. [Try Python (tutorial)](https://www.codeschool.com/courses/try-python)
-1. [13 Types of Software Developers (10 min video)](https://www.youtube.com/watch?v=_9ZS6q4996g&t=499s)
-1. [What is Object Oriented Programing (9 min video)](https://www.youtube.com/watch?v=HUlHun5a430&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m&index=7)
-1. [How Code Works (13 min video)](https://www.youtube.com/watch?v=HI0KumcNTak&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m)
-1. [Try SQL (tutorial)](https://www.codeschool.com/courses/try-sql)
+1. Complete [Try Python](https://www.codeschool.com/courses/try-python) (Videos & Tutorials - 2 hours)
+1. Watch [13 Types of Software Developers](https://www.youtube.com/watch?v=_9ZS6q4996g&t=499s) (Video - 10 min)
+1. Watch [What is Object Oriented Programing](https://www.youtube.com/watch?v=HUlHun5a430&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m&index=7) (Video - 10 min)
+1. Watch [How Code Works](https://www.youtube.com/watch?v=HI0KumcNTak&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m) (Video - 13 min)
+1. Complete [Try SQL](https://www.codeschool.com/courses/try-sql) (Video & Tutorials - 3 hours)
 
 ## Full Stack Web
 

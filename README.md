@@ -43,7 +43,6 @@ The primary languages that you will learn at the Product College are Python and 
 1. Watch [What is Programming in MVC](https://www.youtube.com/watch?v=1IsL6g2ixak) (Video - 24 min). Anwer 
   1. Draw your own diagram of the MVC architecture.
   1. Why do web developers use the MVC architecture? What is an alternative?
-1. [Intro to Express 4.x](https://www.youtube.com/watch?v=FL1-0uTOYSM&index=20&list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8) (Video Tutorial - 4 hours). This tutorial is a walk through to create a full Express.js application with 1 resource and authentication.
 
 ## iOS
 
@@ -56,3 +55,4 @@ The primary languages that you will learn at the Product College are Python and 
 ## Optional
 
 1. Complete [Try SQL](https://www.codeschool.com/courses/try-sql) (Video & Tutorials - 3 hours)
+1. [Intro to Express 4.x](https://www.youtube.com/watch?v=FL1-0uTOYSM&index=20&list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8) (Video Tutorial - 4 hours). This tutorial is a walk through to create a full Express.js application with 1 resource and authentication.

@@ -25,21 +25,26 @@ The primary languages that you will learn at the Product College are Python and 
 ### HTML & CSS
 
 1. [HTML Semantics](https://www.youtube.com/playlist?list=PLWjCJDeWfDdc0Sp_DinOWnodw3KnWCwc1) (Videos - 2 hrs)
-1. [Learn CSS in 12 Min (video)](https://www.youtube.com/watch?v=0afZj1G0BIE)
-1. [Dash Tutorial](https://dash.generalassemb.ly/)
-1. [CSS Cross-Country (Tutorial)](https://www.codeschool.com/courses/css-cross-country)
+1. [Learn CSS in 12 Min](https://www.youtube.com/watch?v=0afZj1G0BIE) (Video - 12 min)
+1. [Dash Tutorial](https://dash.generalassemb.ly/) (Tutorial - 2 hrs)
+1. [CSS Cross-Country](https://www.codeschool.com/courses/css-cross-country) (Tutorial - 4 hrs)
 
 ### JavaScript
 
-1. [Code Academy JavaScript lesson (tutorial 4-hours)](https://www.codecademy.com/learn/javascript)
-1. [JSON Crash Course (24 min video)](https://www.youtube.com/watch?v=wI1CWzNtE-M)
+1. [Code Academy JavaScript lesson](https://www.codecademy.com/learn/javascript) (Tutorial - 4 hrs)
+1. [JSON Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M) (Video - 30 min)
 
 ### Resourceful & RESTful MVC Architecture
 
-1. [Request-Response Cycle Code Academy](https://www.codecademy.com/articles/request-response-cycle-static)
-1. [Build a RESTful API in 5 Minutes with NodeJS-Updated](https://www.youtube.com/watch?v=p-x6WdwaJco)
-1. [What is Programming in MVC (video)](https://www.youtube.com/watch?v=1IsL6g2ixak)
-1. [Intro to Express 4.x (video tutorial)](https://www.youtube.com/watch?v=FL1-0uTOYSM&index=20&list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8)
+1. Watch [The Http and the Web | Http Explained | Request-Response Cycle](https://www.youtube.com/watch?v=eesqK59rhGA) (Video - 8 min). Research and answer the following questions:
+  1. What is HTTP? What three criteria does it have?
+  1. Draw your own diagram of the request-response cycle
+  1. What are the standard HTTP status codes?
+1. [Build a RESTful API in 5 Minutes with NodeJS-Updated](https://www.youtube.com/watch?v=p-x6WdwaJco) (Video - 5 min)
+1. Watch [What is Programming in MVC](https://www.youtube.com/watch?v=1IsL6g2ixak) (Video - 24 min). Anwer 
+  1. Draw your own diagram of the MVC architecture.
+  1. Why do web developers use the MVC architecture? What is an alternative?
+1. [Intro to Express 4.x](https://www.youtube.com/watch?v=FL1-0uTOYSM&index=20&list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8) (Video Tutorial - 4 hours). This tutorial is a walk through to create a full Express.js application with 1 resource and authentication.
 
 ## iOS
 

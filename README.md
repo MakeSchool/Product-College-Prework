@@ -12,6 +12,7 @@ The primary languages that you will learn at the Product College are Python and 
 
 ## Computer Science Fundamentals
 
+1. Complete [Try Git](https://try.github.io/levels/1/challenges/1) (Tutorial - 1 hour)
 1. Complete [Try Python](https://www.codeschool.com/courses/try-python) (Videos & Tutorials - 2 hours)
 1. Watch [13 Types of Software Developers](https://www.youtube.com/watch?v=_9ZS6q4996g&t=499s) (Video - 10 min)
 1. Watch [What is Object Oriented Programing](https://www.youtube.com/watch?v=HUlHun5a430&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m&index=7) (Video - 10 min)

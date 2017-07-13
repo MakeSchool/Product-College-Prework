@@ -11,7 +11,7 @@ You may already possess the skills and knowledge to "test out" of these classes.
 The primary languages that you will learn at the Product College are Python and either JavaScript (for Web) or Swift (for mobile). This prework focuses on these languages and the major paradigms for web and mobile development.
 
 ## Professional Success
-1. Read [How to make a stellar LinkedIn](https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/how-to-best-use-your-linkedin-page-2017-3) (10 min)
+1. Read [How to make a LinkedIn page that wows recruiters, according to the guy who just overhauled its design](https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/how-to-best-use-your-linkedin-page-2017-3) (10 min)
 1. Update and/or create your [LinkedIn](https://www.linkedin.com/)
 
 ## Computer Science Fundamentals

@@ -10,6 +10,10 @@ You may already possess the skills and knowledge to "test out" of these classes.
 
 The primary languages that you will learn at the Product College are Python and either JavaScript (for Web) or Swift (for mobile). This prework focuses on these languages and the major paradigms for web and mobile development.
 
+## Professional Success
+1. Read [How to make a stellar LinkedIn](https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/how-to-best-use-your-linkedin-page-2017-3) (10 min)
+1. Update and/or create your [LinkedIn](https://www.linkedin.com/)
+
 ## Computer Science Fundamentals
 
 1. Complete [Try Git](https://try.github.io/levels/1/challenges/1) (Tutorial - 1 hour)
@@ -57,3 +61,4 @@ The primary languages that you will learn at the Product College are Python and 
 
 1. Complete [Try SQL](https://www.codeschool.com/courses/try-sql) (Video & Tutorials - 3 hours)
 1. [Intro to Express 4.x](https://www.youtube.com/watch?v=FL1-0uTOYSM&index=20&list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8) (Video Tutorial - 4 hours). This tutorial is a walk through to create a full Express.js application with 1 resource and authentication.
+1. Read [7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) [pdf version](http://www.stafforini.com/txt/Covey%20-%20The%207%20habits%20of%20highly%20effective%20people.pdf)

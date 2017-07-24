@@ -11,12 +11,6 @@ You may already possess the skills and knowledge to "test out" of these classes.
 The primary languages that you will learn at the Product College are Python (for CS) and either JavaScript (for web) or Swift (for mobile). This prework focuses on these languages and the major paradigms for web and mobile development.
 
 
-## Professional Success
-
-1. Read [How to make a LinkedIn page that wows recruiters, according to the guy who just overhauled its design](https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/how-to-best-use-your-linkedin-page-2017-3) (10 min)
-1. Update and/or create your [LinkedIn](https://www.linkedin.com/)
-
-
 ## Computer Science Foundations
 
 1. Watch [13 Types of Software Developers](https://www.youtube.com/watch?v=_9ZS6q4996g) (Video - 10 min)
@@ -31,16 +25,8 @@ The primary languages that you will learn at the Product College are Python (for
 
 ### Python
 
-*The most important thing is to become familiar with Python by practicing programming. Remember that reading is not enough. You must practice to learn a new language.*
-
 1. Complete [Try Python](https://www.codeschool.com/courses/try-python) (2 hours), a gentle introductory tutorial to the language with fun videos.
 1. Complete 10-15 of [HackerRank’s Python Challenges](https://www.hackerrank.com/domains/python/py-introduction) (2-4 hours), which automatically test all your code submissions for correctness. The introduction, basic data types, strings, and classes sections cover what you need to know.
-
-*Commit your code to a Git repository as you work on these to show your learning progress and practice using Git. Don't wait to commit all your work at the end – you should get in the habit of making frequent commits, like professional software developers.*
-
-1. Another good place to learn is the [Official Python Tutorial](https://docs.python.org/2.7/tutorial/), which has short code examples that you can follow along with by typing them into an interactive Python shell to see the results.
-
-1. For more guidance, check out [Google’s Python Class](https://developers.google.com/edu/python/), a free tutorial course teaching the basics with videos and exercises. The introduction, strings, lists, sorting, and dictionaries sections cover what you need to know. But first, be sure to [install Python 2.7 the right way](http://docs.python-guide.org/en/latest/starting/install/osx/) to save yourself the trouble/confusion/pain later. Basically, this involves using Homebrew to correctly install and link Python and PIP commands.
 
 ### Object-Oriented Programming
 
@@ -48,6 +34,10 @@ The primary languages that you will learn at the Product College are Python (for
 1. Read [An Introduction to Classes and Inheritance](http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/) (20 minutes), an excellent blog post that gives a short, basic introduction to the OOP concepts of classes and inheritance using Python.
 1. Complete Make School's [OOP Coding Challenge](http://hr.gs/ooptest) (1-2 hours), a fun story-driven tutorial that teaches the major concepts of OOP (classes, objects, instance methods, inheritance, polymorphism, and composition). You can complete it in Swift, Python, JavaScript, Java, or C++; I recommend you try it in Python.
 
+## Professional Success
+
+1. Read [How to make a LinkedIn page that wows recruiters, according to the guy who just overhauled its design](https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/how-to-best-use-your-linkedin-page-2017-3) (10 min)
+1. Update and/or create your [LinkedIn](https://www.linkedin.com/) (2 hours)
 
 ## iOS Mobile Development
 
@@ -57,10 +47,7 @@ The primary languages that you will learn at the Product College are Python (for
 1. Read [Object Oriented Programming in Swift](https://www.raywenderlich.com/160728/object-oriented-programming-swift) (Article - 30min)
 1. Watch [Model-View-Controller(MVC) in iOS](https://www.youtube.com/watch?v=Zud56x_VYvs) (Video - 30min)
 
-
 ## Full Stack Web Development
-
-![Outside In](assets/outside-in.png)
 
 ### HTML & CSS
 
@@ -91,3 +78,5 @@ The primary languages that you will learn at the Product College are Python (for
 1. Complete [Try SQL](https://www.codeschool.com/courses/try-sql) (Video & Tutorials - 3 hours)
 1. [Intro to Express 4.x](https://www.youtube.com/watch?v=FL1-0uTOYSM&index=20&list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8) (Video Tutorial - 4 hours). This tutorial is a walk through to create a full Express.js application with 1 resource and authentication.
 1. Read [7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) ([PDF version](http://www.stafforini.com/txt/Covey%20-%20The%207%20habits%20of%20highly%20effective%20people.pdf))
+1.  [Official Python Tutorial](https://docs.python.org/2.7/tutorial/), which has short code examples that you can follow along with by typing them into an interactive Python shell to see the results.
+1. For more guidance, check out [Google’s Python Class](https://developers.google.com/edu/python/), a free tutorial course teaching the basics with videos and exercises. The introduction, strings, lists, sorting, and dictionaries sections cover what you need to know. But first, be sure to [install Python 2.7 the right way](http://docs.python-guide.org/en/latest/starting/install/osx/) to save yourself the trouble/confusion/pain later. Basically, this involves using Homebrew to correctly install and link Python and PIP commands.

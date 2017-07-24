@@ -24,33 +24,29 @@ The primary languages that you will learn at the Product College are Python (for
 
 ### Git and GitHub
 
-Complete [Try Git](https://try.github.io/levels/1/challenges/1) (1 hour) to learn the basics of Git version control with a guided tutorial.
+1. Complete [Try Git](https://try.github.io/levels/1/challenges/1) (1 hour) to learn the basics of Git version control with a guided tutorial.
+1. For more information, check out [Learn Version Control with Git](https://www.git-tower.com/learn/) videos and tutorials. You don't need to finish this, watching [videos 1-8](https://www.git-tower.com/learn/git/videos#episodes) and/or reading [part 1 of the tutorial](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) is enough for now.
 
-For more information, check out [Learn Version Control with Git](https://www.git-tower.com/learn/) videos and tutorials. You don't need to finish this, watching [videos 1-8](https://www.git-tower.com/learn/git/videos#episodes) and/or reading [part 1 of the tutorial](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) is enough for now.
-
-Create a [GitHub](https://github.com/) account (if you don't have one yet) and complete your profile (name, photo, etc).
+1. Create a [GitHub](https://github.com/) account (if you don't have one yet) and complete your profile (name, photo, etc).
 
 ### Python
 
 *The most important thing is to become familiar with Python by practicing programming. Remember that reading is not enough. You must practice to learn a new language.*
 
-Complete [Try Python](https://www.codeschool.com/courses/try-python) (2 hours), a gentle introductory tutorial to the language with fun videos.
-
-Complete 10-15 of [HackerRank’s Python Challenges](https://www.hackerrank.com/domains/python/py-introduction) (2-4 hours), which automatically test all your code submissions for correctness. The introduction, basic data types, strings, and classes sections cover what you need to know.
+1. Complete [Try Python](https://www.codeschool.com/courses/try-python) (2 hours), a gentle introductory tutorial to the language with fun videos.
+1. Complete 10-15 of [HackerRank’s Python Challenges](https://www.hackerrank.com/domains/python/py-introduction) (2-4 hours), which automatically test all your code submissions for correctness. The introduction, basic data types, strings, and classes sections cover what you need to know.
 
 *Commit your code to a Git repository as you work on these to show your learning progress and practice using Git. Don't wait to commit all your work at the end – you should get in the habit of making frequent commits, like professional software developers.*
 
-Another good place to learn is the [Official Python Tutorial](https://docs.python.org/2.7/tutorial/), which has short code examples that you can follow along with by typing them into an interactive Python shell to see the results.
+1. Another good place to learn is the [Official Python Tutorial](https://docs.python.org/2.7/tutorial/), which has short code examples that you can follow along with by typing them into an interactive Python shell to see the results.
 
-For more guidance, check out [Google’s Python Class](https://developers.google.com/edu/python/), a free tutorial course teaching the basics with videos and exercises. The introduction, strings, lists, sorting, and dictionaries sections cover what you need to know. But first, be sure to [install Python 2.7 the right way](http://docs.python-guide.org/en/latest/starting/install/osx/) to save yourself the trouble/confusion/pain later. Basically, this involves using Homebrew to correctly install and link Python and PIP commands.
+1. For more guidance, check out [Google’s Python Class](https://developers.google.com/edu/python/), a free tutorial course teaching the basics with videos and exercises. The introduction, strings, lists, sorting, and dictionaries sections cover what you need to know. But first, be sure to [install Python 2.7 the right way](http://docs.python-guide.org/en/latest/starting/install/osx/) to save yourself the trouble/confusion/pain later. Basically, this involves using Homebrew to correctly install and link Python and PIP commands.
 
 ### Object-Oriented Programming
 
-Watch [Object Oriented Programing](https://www.youtube.com/watch?v=HUlHun5a430&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m&index=7) by Dave Xiang (10 minutes) for a quick video overview of ideas.
-
-Read [An Introduction to Classes and Inheritance](http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/) (20 minutes), an excellent blog post that gives a short, basic introduction to the OOP concepts of classes and inheritance using Python.
-
-Complete Make School's [OOP Coding Challenge](http://hr.gs/ooptest) (1-2 hours), a fun story-driven tutorial that teaches the major concepts of OOP (classes, objects, instance methods, inheritance, polymorphism, and composition). You can complete it in Swift, Python, JavaScript, Java, or C++; I recommend you try it in Python.
+1. Watch [Object Oriented Programing](https://www.youtube.com/watch?v=HUlHun5a430&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m&index=7) by Dave Xiang (10 minutes) for a quick video overview of ideas.
+1. Read [An Introduction to Classes and Inheritance](http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/) (20 minutes), an excellent blog post that gives a short, basic introduction to the OOP concepts of classes and inheritance using Python.
+1. Complete Make School's [OOP Coding Challenge](http://hr.gs/ooptest) (1-2 hours), a fun story-driven tutorial that teaches the major concepts of OOP (classes, objects, instance methods, inheritance, polymorphism, and composition). You can complete it in Swift, Python, JavaScript, Java, or C++; I recommend you try it in Python.
 
 
 ## iOS Mobile Development

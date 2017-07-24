@@ -20,7 +20,6 @@ The primary languages that you will learn at the Product College are Python (for
 
 1. Complete [Try Git](https://try.github.io/levels/1/challenges/1) (1 hour) to learn the basics of Git version control with a guided tutorial.
 1. For more information, check out [Learn Version Control with Git](https://www.git-tower.com/learn/) videos and tutorials. You don't need to finish this, watching [videos 1-8](https://www.git-tower.com/learn/git/videos#episodes) and/or reading [part 1 of the tutorial](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) is enough for now.
-
 1. Create a [GitHub](https://github.com/) account (if you don't have one yet) and complete your profile (name, photo, etc).
 
 ### Python

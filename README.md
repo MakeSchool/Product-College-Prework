@@ -53,7 +53,7 @@ The primary languages that you will learn at the Product College are Python (for
 1. [HTML Semantics](https://www.youtube.com/playlist?list=PLWjCJDeWfDdc0Sp_DinOWnodw3KnWCwc1) (Videos - 2 hrs)
 1. [Learn CSS in 12 Min](https://www.youtube.com/watch?v=0afZj1G0BIE) (Video - 12 min)
 1. [Dash Tutorial](https://dash.generalassemb.ly/) (Tutorial - 2 hrs)
-1. [CSS Cross-Country](https://www.codeschool.com/courses/css-cross-country) (Tutorial - 4 hrs)
+1. [CSS Cross-Country (Only Lesson 1)](https://www.codeschool.com/courses/css-cross-country) (Tutorial - 45min)
 
 ### JavaScript
 

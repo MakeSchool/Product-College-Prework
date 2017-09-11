@@ -16,6 +16,10 @@ The primary languages that you will learn at the Product College are Python (for
 1. Watch [13 Types of Software Developers](https://www.youtube.com/watch?v=_9ZS6q4996g) (Video - 10 min)
 1. Watch [How Code Works](https://www.youtube.com/watch?v=HI0KumcNTak&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m) (Video - 13 min)
 
+### The Command Line
+
+1. Complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (Tutorial - 45 min)
+
 ### Git and GitHub
 
 1. Complete [Try Git](https://try.github.io/levels/1/challenges/1) (1 hour) to learn the basics of Git version control with a guided tutorial.

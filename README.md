@@ -41,6 +41,7 @@ The primary languages that you will learn at the Product College are Python (for
 
 1. Read [How to make a LinkedIn page that wows recruiters, according to the guy who just overhauled its design](https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/how-to-best-use-your-linkedin-page-2017-3) (10 min)
 1. Update and/or create your [LinkedIn](https://www.linkedin.com/) (2 hours)
+1. Read the [Productivity & Organization self guided tutorial](https://drive.google.com/file/d/1eh9LIZdCK-EwNLtCxrp4jZLaSoIrjqbl/view?usp=sharing) and fill out the accompanying [worksheet](https://drive.google.com/file/d/1dOoL6-4p_5jmMY2eMBjgNqJxwFdVpmR3/view?usp=sharing) (3 hours)
 
 ## iOS Mobile Development
 

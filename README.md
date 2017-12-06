@@ -5,9 +5,8 @@ Welcome to the Product College!
 During the first week of the Product College, you will take a few assessments to place you in the appropriate class. Below you will find a series of tutorials and videos that will prepare you for those assessments.
 
 Notes:
-* The pre-work can be done on your own time as long as it is completed before Day 1 of the Product College. If you are focused, it can be completed in under 2 weeks. 
-* The pre-work does not assume any prior programming experience
-* If you get stuck, you are allowed to use any resources you find online and if you can not figure it out yourself, you may contact us for help at admissions@makeschool.com.
+* The pre-work can be done on your own time as long as it is completed before Day 1 of the Product College. If you remain focused, it can be completed in under 2 weeks. 
+* The pre-work does not assume any prior programming experience. If you get stuck, you are allowed to use any resources you find online and if you can not figure it out yourself, you may contact us for help at admissions@makeschool.com.
 
 The primary languages that you will learn at the Product College are (1) Python and (2) either JavaScript (for web-focused students) or Swift (for mobile-focused students). The pre-work below focuses on these languages and the major paradigms for web and mobile development. By completing this pre-work, you will ensure a smooth start at the Product College and accelerate your trajectory towards becoming a software engineer.
 

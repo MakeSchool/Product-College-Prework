@@ -1,53 +1,86 @@
-# PC Prework
+# Product College Prework
 
 Welcome to the Product College!
 
-During the first week of the Product College, you will take a few tests to see if you can skip some initial classes. This document contains links to some tutorials and videos that will prepare you for these tests.
+During the first week of the Product College, you will take a few assessments to place you in the appropriate class. Below you will find a series of tutorials and videos that will prepare you for those assessments.
 
-By completing this prework, you will accelerate your time becoming a software engineer, and can even make it so your can graduate from the Product College early. If you do not complete this prework, you will not be "in trouble" but you might be discouraged by being less prepared than other fellows which will make your time more difficult.
+Notes:
+* The pre-work can be done on your own time as long as it is completed before Day 1 of the Product College. If you remain focused, it can be completed in under 2 weeks.
+* The pre-work does not assume any prior programming experience. If you get stuck, you are allowed to use any resources you find online and if you can not figure it out yourself, you may contact us for help at admissions@makeschool.com.
 
-You may already possess the skills and knowledge to "test out" of these classes. Or you may not. Either way, it is important for you to review and complete the following prework.
+The primary languages that you will learn at the Product College are (1) Python and (2) either JavaScript (for web-focused students) or Swift (for mobile-focused students). The pre-work below focuses on these languages and the major paradigms for web and mobile development. By completing this pre-work, you will ensure a smooth start at the Product College and accelerate your trajectory towards becoming a software engineer.
 
-The primary languages that you will learn at the Product College are Python and either JavaScript (for Web) or Swift (for mobile). This prework focuses on these languages and the major paradigms for web and mobile development.
 
-## Computer Science Fundamentals
+## Computer Science Foundations
 
-1. [Try Python (tutorial)](https://www.codeschool.com/courses/try-python)
-1. [13 Types of Software Developers (10 min video)](https://www.youtube.com/watch?v=_9ZS6q4996g&t=499s)
-1. [What is Object Oriented Programing (9 min video)](https://www.youtube.com/watch?v=HUlHun5a430&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m&index=7)
-1. [How Code Works (13 min video)](https://www.youtube.com/watch?v=HI0KumcNTak&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m)
-1. [Try SQL (tutorial)](https://www.codeschool.com/courses/try-sql)
+1. Watch [13 Types of Software Developers](https://www.youtube.com/watch?v=_9ZS6q4996g) (Video - 10 min)
+1. Watch [How Code Works](https://www.youtube.com/watch?v=HI0KumcNTak&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m) (Video - 13 min)
 
-## Full Stack Web
+### The Command Line
 
-![Outside In](assets/outside-in.png)
+1. Complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (Tutorial - 45 min)
 
-[Dev Tools (tutorial)](https://www.codeschool.com/courses/discover-devtools)
+### Git and GitHub
+1. Complete [Try Git](https://try.github.io/levels/1/challenges/1) (1 hour) to learn the basics of Git version control with a guided tutorial.
+1. For more information, check out [Learn Version Control with Git](https://www.git-tower.com/learn/) videos and tutorials. You don't need to finish this, watching [videos 1-8](https://www.git-tower.com/learn/git/videos#episodes) and/or reading [part 1 of the tutorial](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) is enough for now.
+1. Create a [GitHub](https://github.com/) account (if you don't have one yet) and complete your profile (name, photo, etc).
+
+### Python
+
+1. Complete [Try Python](https://www.codeschool.com/courses/try-python) (2 hours), a gentle introductory tutorial to the language with fun videos.
+1. Complete 10-15 of [HackerRank’s Python Challenges](https://www.hackerrank.com/domains/python/py-introduction) (2-4 hours), which automatically test all your code submissions for correctness. The introduction, basic data types, strings, and classes sections cover what you need to know.
+
+### Object-Oriented Programming
+
+1. Watch [Object Oriented Programing](https://www.youtube.com/watch?v=HUlHun5a430&list=PLVpAurZqkV67DYxp5L8bx1g1yzE2hTe8m&index=7) by Dave Xiang (10 minutes) for a quick video overview of ideas.
+1. Read [An Introduction to Classes and Inheritance](http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/) (20 minutes), an excellent blog post that gives a short, basic introduction to the OOP concepts of classes and inheritance using Python.
+1. Complete Make School's [OOP Coding Challenge](http://hr.gs/ooptest) (1-2 hours), a fun story-driven tutorial that teaches the major concepts of OOP (classes, objects, instance methods, inheritance, polymorphism, and composition). You can complete it in Swift, Python, JavaScript, Java, or C++; I recommend you try it in Python.
+
+## Professional Success
+
+1. Read [How to make a LinkedIn page that wows recruiters, according to the guy who just overhauled its design](https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/how-to-best-use-your-linkedin-page-2017-3) (10 min)
+1. Update and/or create your [LinkedIn](https://www.linkedin.com/) (2 hours)
+1. Read the [Productivity & Organization self guided tutorial](https://drive.google.com/file/d/1eh9LIZdCK-EwNLtCxrp4jZLaSoIrjqbl/view?usp=sharing) and fill out the accompanying [worksheet](https://drive.google.com/file/d/1dOoL6-4p_5jmMY2eMBjgNqJxwFdVpmR3/view?usp=sharing) (3 hours)
+
+## iOS Mobile Development
+
+1. Install XCode - from App Store (~4 hours)
+1. Download and read [Swift and iOS Development- Intro to App Development iBook](https://itun.es/us/aVbRcb.l) (5-6 hours)
+1. Complete [Online Academy - CS Fundamentals](https://www.makeschool.com/academy) (Tutorial - 3 hours)
+1. Read [Object Oriented Programming in Swift](https://www.raywenderlich.com/160728/object-oriented-programming-swift) (Article - 30min)
+1. Watch [Model-View-Controller(MVC) in iOS](https://www.youtube.com/watch?v=Zud56x_VYvs) (Video - 30min)
+
+## Full Stack Web Development
 
 ### HTML & CSS
 
-1. [HTML Semantics (videos)](https://www.youtube.com/playlist?list=PLWjCJDeWfDdc0Sp_DinOWnodw3KnWCwc1)
-1. [Learn CSS in 12 Min (video)](https://www.youtube.com/watch?v=0afZj1G0BIE)
-1. [Dash Tutorial](https://dash.generalassemb.ly/)
-1. [CSS Cross-Country (Tutorial)](https://www.codeschool.com/courses/css-cross-country)
+1. [HTML Semantics](https://www.youtube.com/playlist?list=PLWjCJDeWfDdc0Sp_DinOWnodw3KnWCwc1) (Videos - 2 hrs)
+1. [Learn CSS in 12 Min](https://www.youtube.com/watch?v=0afZj1G0BIE) (Video - 12 min)
+1. [Dash Tutorial](https://dash.generalassemb.ly/) (Tutorial - 2 hrs)
+1. [CSS Cross-Country (Only Lesson 1)](https://www.codeschool.com/courses/css-cross-country) (Tutorial - 45min)
+1. [Dev Tools (tutorial)](https://www.codeschool.com/courses/discover-devtools)
 
 ### JavaScript
 
-1. [Code Academy JavaScript lesson (tutorial 4-hours)](https://www.codecademy.com/learn/javascript)
-1. [JSON Crash Course (24 min video)](https://www.youtube.com/watch?v=wI1CWzNtE-M)
+1. [Codecademy JavaScript lesson](https://www.codecademy.com/learn/javascript) (Tutorial - 4 hrs)
+1. [JSON Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M) (Video - 30 min)
 
 ### Resourceful & RESTful MVC Architecture
 
-1. [Request-Response Cycle Code Academy](https://www.codecademy.com/articles/request-response-cycle-static)
-1. [Build a RESTful API in 5 Minutes with NodeJS-Updated](https://www.youtube.com/watch?v=p-x6WdwaJco)
-1. [What is Programming in MVC (video)](https://www.youtube.com/watch?v=1IsL6g2ixak)
-1. [Intro to Express 4.x (video tutorial)](https://www.youtube.com/watch?v=FL1-0uTOYSM&index=20&list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8)
+1. Watch [HTTP and the Web Explained | Request-Response Cycle](https://www.youtube.com/watch?v=eesqK59rhGA) (Video - 8 min). Research and answer the following questions:
+    1. What is HTTP? What three criteria does it have?
+    1. Draw your own diagram of the request-response cycle
+    1. What are the standard HTTP status codes?
+1. [Build a RESTful API in 5 Minutes with NodeJS-Updated](https://www.youtube.com/watch?v=p-x6WdwaJco) (Video - 5 min)
+1. Watch [What is Programming in MVC](https://www.youtube.com/watch?v=1IsL6g2ixak) (Video - 24 min). Research and answer the following questions:
+    1. Draw your own diagram of the MVC architecture.
+    1. Why do web developers use the MVC architecture? What is an alternative?
+1. Read, understand, and memorize the table of [RESTful & Resourceful Routes](http://guides.rubyonrails.org/v2.3/routing.html#restful-routing-the-rails-default) - (This is Ruby on Rails documentation, but the convention applies to the entire web.)
 
-## iOS
+## Optional
 
-1. Install XCode - from App Store (~4 hours)
-
-### Fundamentals
-1. [Online Academy CS Fundamentals](https://www.makeschool.com/academy)
-
-###
+1. Complete [Try SQL](https://www.codeschool.com/courses/try-sql) (Video & Tutorials - 3 hours)
+1. [Intro to Express 4.x](https://www.youtube.com/watch?v=FL1-0uTOYSM&index=20&list=PLNcEnkMSwDUkPTztJ8zEJsuTOMdxZshO8) (Video Tutorial - 4 hours). This tutorial is a walk through to create a full Express.js application with 1 resource and authentication.
+1. Read [7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) ([PDF version](http://www.stafforini.com/txt/Covey%20-%20The%207%20habits%20of%20highly%20effective%20people.pdf))
+1.  [Official Python Tutorial](https://docs.python.org/2.7/tutorial/), which has short code examples that you can follow along with by typing them into an interactive Python shell to see the results.
+1. For more guidance, check out [Google’s Python Class](https://developers.google.com/edu/python/), a free tutorial course teaching the basics with videos and exercises. The introduction, strings, lists, sorting, and dictionaries sections cover what you need to know. But first, be sure to [install Python 2.7 the right way](http://docs.python-guide.org/en/latest/starting/install/osx/) to save yourself the trouble/confusion/pain later. Basically, this involves using Homebrew to correctly install and link Python and PIP commands.

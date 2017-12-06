@@ -22,6 +22,8 @@ The primary languages that you will learn at the Product College are Python and 
 
 ![Outside In](assets/outside-in.png)
 
+[Dev Tools (tutorial)](https://www.codeschool.com/courses/discover-devtools)
+
 ### HTML & CSS
 
 1. [HTML Semantics (videos)](https://www.youtube.com/playlist?list=PLWjCJDeWfDdc0Sp_DinOWnodw3KnWCwc1)

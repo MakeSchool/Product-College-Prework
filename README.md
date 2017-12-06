@@ -2,13 +2,11 @@
 
 Welcome to the Product College!
 
-During the first week of the Product College, you will take a few assessments to see if you can skip some initial classes. This document contains links to some tutorials and videos that will prepare you for these assessments.
+During the first week of the Product College, you will take a few assessments to see if you can skip some initial classes. Below you will find a series of tutorials and videos that will prepare you for your Week 1 assessments. 
 
-By completing this prework, you will accelerate your time becoming a software engineer, and can even make it so your can graduate from the Product College early. If you do not complete this prework, you will not be "in trouble" but you might be discouraged by being less prepared than other students which will make your time more difficult.
+*Please complete the pre-work before Day 1 of the Product College.* By completing this prework, you will accelerate your trajectory towards becoming a software engineer. 
 
-You may already possess the skills and knowledge to "test out" of these classes. Or you may not. Either way, it is important for you to review and complete the following prework to level up your skills.
-
-The primary languages that you will learn at the Product College are Python (for CS) and either JavaScript (for web) or Swift (for mobile). This prework focuses on these languages and the major paradigms for web and mobile development.
+The primary languages that you will learn at the Product College are Python and either JavaScript (for web-focused students) or Swift (for mobile-focused students). The pre-work below focuses on these languages and the major paradigms for web and mobile development. If you get stuck, you are allowed to use any resources you find online and if you can not figure it out yourself, you may contact us for help at admissions@makeschool.com.
 
 
 ## Computer Science Foundations
